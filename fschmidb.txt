@@ -1,1 +1,3 @@
 
+Im Ordner die Datei fschmidb.txt angelegt.
+Dann mit git push -u origin master die Daten in das remote-Repository übertragen
