@@ -1,1 +1,2 @@
-
+Im Ordner die Datei cseiler.txt angelegt.
+Dann mit git push -u origin master die Daten in das remote-Repository übertragen
